@@ -1,4 +1,5 @@
 _repo: The-Snare_49901
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Weiss, George Henry
@@ -7,6 +8,9 @@ contributor:
     deathdate: 1946
     gutenberg_agent_id: '26064'
     url: http://www.gutenberg.org/2009/agents/26064
+covers:
+- cover_type: archival
+  image_path: 49901-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Richard Rein
@@ -17,6 +21,8 @@ creator:
     gutenberg_agent_id: '33589'
     url: http://www.gutenberg.org/2009/agents/33589
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49901#The-Snare
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2015-09-07'
 gutenberg_type: Text
